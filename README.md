@@ -14,4 +14,4 @@ If you find any security vulnerability that has been inadvertently overlooked, o
 Yours sincerely,
 The Senior Source
 
-EMAIL ADDRESS
+appseniorsource@gmail.com
